@@ -11,7 +11,7 @@ import android.webkit.MimeTypeMap
 import kotlinx.android.synthetic.main.activity_main.*
 import java.io.File
 
-//class MainActivity : AppCompatActivity() {
+
 class MainActivity : AppCompatActivity(), ServiceListener {
 
     enum class ButtonState {
